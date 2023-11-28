@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/letters-files.dir/src/letters-files.cc.o  -o letters-files 

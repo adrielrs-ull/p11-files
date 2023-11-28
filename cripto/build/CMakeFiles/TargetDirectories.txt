@@ -1,0 +1,3 @@
+/home/usuario/practicas/p11-files/cripto/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/p11-files/cripto/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/p11-files/cripto/build/CMakeFiles/cripto.dir

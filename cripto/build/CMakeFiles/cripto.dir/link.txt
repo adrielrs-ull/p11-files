@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cripto.dir/src/cripto.cc.o  -o cripto 
