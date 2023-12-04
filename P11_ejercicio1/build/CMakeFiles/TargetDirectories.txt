@@ -1,0 +1,3 @@
+/home/usuario/practicas/p11-files/P11_ejercicio1/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/p11-files/P11_ejercicio1/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/p11-files/P11_ejercicio1/build/CMakeFiles/files.dir

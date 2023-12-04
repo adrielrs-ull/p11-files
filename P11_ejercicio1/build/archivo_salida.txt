@@ -1,0 +1,4 @@
+65 -8 777 NaN -35 NaN 57 65 -8 777 NaN -35 NaN 
+65 -8 777 NaN -35 NaN 
+65 -8 777 NaN -35 NaN 
+65 -8 777 NaN -35 NaN 
